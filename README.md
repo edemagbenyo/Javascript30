@@ -8,7 +8,7 @@ Each course covers a topic on JS and CSS
 
 1. 
 2. 
-3.[Playing with CSS and JS](https://rawcdn.githack.com/edemagbenyo/Javascript30/f95cbd55276c5f163dfd1befa639e723f34cb3c0/03_playing_with_css_and_js.html)
+3. [Playing with CSS and JS](https://rawcdn.githack.com/edemagbenyo/Javascript30/f95cbd55276c5f163dfd1befa639e723f34cb3c0/03_playing_with_css_and_js.html)
 
 ## Prerequisites
 
