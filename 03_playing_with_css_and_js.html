@@ -12,17 +12,17 @@
 		<label for="spacing">Spacing</label>
 		<input type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
 		<label for="spacing">Blur</label>
-		<input type="range" name="blur" min="10" max="200" value="0" data-sizing="px">
+		<input type="range" name="blur" min="0" max="50" value="10" data-sizing="px">
 		<label for="spacing">Base Color</label>
-		<input type="color" name="base" value="#488940">
+		<input type="color" name="base" value="#ffc600">
 	</div>
-	<img src="https://unsplash.it/800/500?image=899" alt="Image">
+	<img src="./images/me.JPG" alt="Image">
 
 	<style>
 		:root{
 			--base:#ffc600;
 			--spacing:20px;
-			--blur:0px;
+			--blur:10px;
 		}
 		body{
 			text-align: center;
@@ -34,7 +34,7 @@
 		}
 
 		img{
-			width: 50%;
+			width: 20%;
 			padding: var(--spacing);
 			background: var(--base);
 			filter: blur(var(--blur));
